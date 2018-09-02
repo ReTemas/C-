@@ -9,7 +9,7 @@ namespace PracWork2 {
         static void Main(string[] args) {
             double x, R;
             int distance, days = 234, twoDigitNumber, fourDigitNumber;
-
+            try { 
             Console.WriteLine("Введите значение x.");
             x = Convert.ToInt32(Console.ReadLine());
 
@@ -38,10 +38,6 @@ namespace PracWork2 {
             fourDigitNumber = Convert.ToInt32(Console.ReadLine());
 
             TaskSix(fourDigitNumber);
-
-
-            try
-            { 
             }
             catch
             {
