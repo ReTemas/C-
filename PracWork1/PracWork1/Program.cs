@@ -12,7 +12,8 @@ namespace PracWork1 {
 
             Console.WriteLine("Темирлан");
             Console.WriteLine("Сулейменов");
-
+            
+            Console.WriteLine("Введите 10 чисел");
             try {
                 while (counter++ < 10)
                 {
