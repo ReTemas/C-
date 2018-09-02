@@ -1,0 +1,7 @@
+C:\Users\ww\source\repos\PracWork2\PracWork2\bin\Debug\PracWork2.exe.config
+C:\Users\ww\source\repos\PracWork2\PracWork2\bin\Debug\PracWork2.exe
+C:\Users\ww\source\repos\PracWork2\PracWork2\bin\Debug\PracWork2.pdb
+C:\Users\ww\source\repos\PracWork2\PracWork2\obj\Debug\PracWork2.csprojResolveAssemblyReference.cache
+C:\Users\ww\source\repos\PracWork2\PracWork2\obj\Debug\PracWork2.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\PracWork2\PracWork2\obj\Debug\PracWork2.exe
+C:\Users\ww\source\repos\PracWork2\PracWork2\obj\Debug\PracWork2.pdb
