@@ -1,0 +1,7 @@
+C:\Users\СулейменовТе\source\repos\HomeWorkSix\HomeWorkSix\obj\Debug\HomeWorkSix.csprojAssemblyReference.cache
+C:\Users\СулейменовТе\source\repos\HomeWorkSix\HomeWorkSix\obj\Debug\HomeWorkSix.csproj.CoreCompileInputs.cache
+C:\Users\СулейменовТе\source\repos\HomeWorkSix\HomeWorkSix\bin\Debug\HomeWorkSix.exe.config
+C:\Users\СулейменовТе\source\repos\HomeWorkSix\HomeWorkSix\bin\Debug\HomeWorkSix.exe
+C:\Users\СулейменовТе\source\repos\HomeWorkSix\HomeWorkSix\bin\Debug\HomeWorkSix.pdb
+C:\Users\СулейменовТе\source\repos\HomeWorkSix\HomeWorkSix\obj\Debug\HomeWorkSix.exe
+C:\Users\СулейменовТе\source\repos\HomeWorkSix\HomeWorkSix\obj\Debug\HomeWorkSix.pdb
